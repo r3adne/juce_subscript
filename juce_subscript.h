@@ -10,6 +10,7 @@ BEGIN_JUCE_MODULE_DECLARATION
 
 END_JUCE_MODULE_DECLARATION
  */
+#pragma once
 #include <juce_core/juce_core.h>
 
 struct Subscript
